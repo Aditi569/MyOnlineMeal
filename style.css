@@ -81,7 +81,7 @@
     position: absolute;
     top: 0px;
     left: 0px;
-    background: url('/assets/background-logo.jpg')no-repeat center center/cover;
+    background: url('assets/background-logo.jpg')no-repeat center center/cover;
     height: 70%;
     width: 100%;
     z-index: -1;
@@ -162,7 +162,7 @@ height: 300px;
 #client-section::before{
     content: "" ;
     position: absolute;
-    background:url('/assets/vegbg.jpg');
+    background:url('assets/vegbg.jpg');
     width: 100%;
     height: 100%;
     z-index: -1;
